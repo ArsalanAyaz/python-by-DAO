@@ -1,0 +1,6 @@
+virtual environment setup
+
+run these commands in anaconda prompt
+
+1- conda create -n python12 python==3.12 -y
+2- conda activate python12
